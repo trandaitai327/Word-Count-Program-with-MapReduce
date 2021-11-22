@@ -1,0 +1,6 @@
+- Link nguồn:
+	wiki103.txt: https://www.kaggle.com/a24998667/variety-text-corpus?select=wiki103.raw.txt
+	USblogs.txt: https://www.kaggle.com/crmercado/tweets-blogs-news-swiftkey-dataset-4million
+	Asian.txt: https://www.kaggle.com/spatika/yelp-reviews-grouped-by-cuisine?select=Asian.txt
+- Link GGDrive em tải lên:
+	https://drive.google.com/drive/folders/14BIJXe9jl29IUsz0kOPuAJdaL5lM32s9?usp=sharing
